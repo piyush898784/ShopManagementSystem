@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Local databases and temporary files
+*.db
+*.sqlite3
+database/shop_local.db
+
+# Generated invoices and logs
+invoices_saved/
+*.log
+
+# Environment & IDE
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/
